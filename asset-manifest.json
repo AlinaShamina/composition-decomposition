@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/composition-decomposition/static/css/main.9996e9e7.css",
+    "main.js": "/composition-decomposition/static/js/main.adfa1634.js",
+    "static/js/453.a76456c8.chunk.js": "/composition-decomposition/static/js/453.a76456c8.chunk.js",
+    "index.html": "/composition-decomposition/index.html",
+    "main.9996e9e7.css.map": "/composition-decomposition/static/css/main.9996e9e7.css.map",
+    "main.adfa1634.js.map": "/composition-decomposition/static/js/main.adfa1634.js.map",
+    "453.a76456c8.chunk.js.map": "/composition-decomposition/static/js/453.a76456c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9996e9e7.css",
+    "static/js/main.adfa1634.js"
+  ]
+}
